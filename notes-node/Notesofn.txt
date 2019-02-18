@@ -1,0 +1,3 @@
+5/2/19
+Today learnt about JSON how to convert an object into string and vice versa 
+learnt methods such as readFileSync and WriteFileSync
