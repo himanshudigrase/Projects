@@ -5,3 +5,4 @@ My First Repository
 3. Random Dice Generator. 
 4. Drum Kit - made with help of Event handlers . Download the code and be a Rockstar :)
 5.Note App- Made a note app using Node.js .
+6.Pig Game- This is another dice game. How to play? is mentioned in the app.js file.Try it out. Have fun. 
